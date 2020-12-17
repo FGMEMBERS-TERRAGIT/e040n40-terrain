@@ -1,0 +1,5 @@
+OBJECT_BASE 3645705.btg
+OBJECT UGKO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 42.468495 42.175654 42.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 42.496978 42.178129 49.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 42.482275 42.178018 46.0 0.00
